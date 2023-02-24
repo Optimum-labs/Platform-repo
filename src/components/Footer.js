@@ -10,9 +10,10 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">DarkLeas</h1>
+                <h1 className="logo">OptimumAI</h1>
                 <p className="footer-text">
-                  Take your Soft skills to the next level with our comprehensive assessment and personalized analysis.
+                  Take your Soft skills to the next level with our 
+                  comprehensive assessment and personalized analysis.
         
                 </p>
               </div>
