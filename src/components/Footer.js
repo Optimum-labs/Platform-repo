@@ -50,7 +50,7 @@ function Footer() {
                     <Link to="#" >optimumdl.ai@gmail.com</Link>
                   </li>
                   <li>
-                    <Link to="#" > mohammad yahiya #3265</Link>
+                    <Link to="#" > mohammad yahiya </Link>
                   </li>
                   <li>
                     <Link to="#" >+91-9010102291</Link>
@@ -63,9 +63,6 @@ function Footer() {
                   <li>
                     <a target="_blank" rel="noreferrer" href="https://github.com/Optimum-labs" > Github</a>
                   </li>
-//                   <li>
-//                     <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>
-//                   </li>
                   <li>
                     <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/groups/8980456/"> Linkedin</a>
                   </li>
